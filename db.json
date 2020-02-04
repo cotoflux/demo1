@@ -2,17 +2,11 @@
 
   "result": {
       "statusCode": 200,
-      "statusDescription": "OK",
-      "validationErrors": [],
-      "otherErrors": []
   },
   "data": {
       "id": 1788,
       "token": "3FxgPL7UzWZcZU0jpa0JCAhWUsaRZSLx4ja2HeMGbRKJMmvATMEoeKcWk9Iu3l4DWt5wJsHmZ8KB5NjTCNVg30G4bHr3lrEsERsgd9iITV1F0z3k6Jl479HTfGY7rGQJjCcnlpUTDefvmZp3k7ZPcF3EPdSZ1MBonwIar1rD2LTeWwuDRfQOv2OU8vp41zFJgb0AsaaGU2SZiOwL3Mfc65PWcM24xEsrFRqdbEXI5ZVL1Cvf3xdzsGlLChIqPyE",
-      "started_at": "2020-02-04 14:38:58",
-      "user": {
-          "id": 44
-      }
+
     }
 
 }
