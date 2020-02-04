@@ -1,9 +1,5 @@
 {
-    "appName": "Electry-Site",
-    "appVersion": "1.0",
-    "apiName": "ElectryNet",
-    "apiVersion": "1.0",
-    "error": false,
+
     "result": {
         "statusCode": 200,
         "statusDescription": "OK",
@@ -16,32 +12,6 @@
         "token": "3FxgPL7UzWZcZU0jpa0JCAhWUsaRZSLx4ja2HeMGbRKJMmvATMEoeKcWk9Iu3l4DWt5wJsHmZ8KB5NjTCNVg30G4bHr3lrEsERsgd9iITV1F0z3k6Jl479HTfGY7rGQJjCcnlpUTDefvmZp3k7ZPcF3EPdSZ1MBonwIar1rD2LTeWwuDRfQOv2OU8vp41zFJgb0AsaaGU2SZiOwL3Mfc65PWcM24xEsrFRqdbEXI5ZVL1Cvf3xdzsGlLChIqPyE",
         "started_at": "2020-02-04 14:38:58",
         "user": {
-            "id": 44,
-            "rol_id": 1,
-            "office_id": null,
-            "team_id": null,
-            "dni": null,
-            "user_name": "test",
-            "name": "test",
-            "lastname": "last",
-            "email": "test@test.test",
-            "erp_user_id": null,
-            "email_verified_at": "2019-09-05 14:17:56",
-            "phone": null,
-            "mobile": null,
-            "birthday": "2019-09-05",
-            "image": null,
-            "address": null,
-            "address_zipcode": null,
-            "address_state_id": null,
-            "is_administrator": 1,
-            "role": {
-                "id": 1,
-                "rol": "SYS Administrador",
-                "area": "ADM",
-                "position": "ADM",
-                "security_level": 9
-            }
-        }
+
     }
 }
